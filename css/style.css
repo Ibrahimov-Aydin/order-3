@@ -2440,6 +2440,15 @@ body::after {
     font-size: 3.5rem;
   }
 
+  .page_blog,
+  .page_seo {
+    padding-bottom: 96px;
+  }
+
+  .page_inner {
+    padding-bottom: 96px;
+  }
+
   .header__container {
     -webkit-box-pack: justify;
         -ms-flex-pack: justify;
@@ -2708,11 +2717,11 @@ body::after {
   .page_blog,
   .page_seo {
     padding-top: 138px;
-    padding-bottom: 124px;
+    padding-bottom: 62px;
   }
 
   .page_inner {
-    padding-bottom: 124px;
+    padding-bottom: 62px;
   }
 
   .page__wrapper {
@@ -2996,11 +3005,11 @@ body::after {
   .page_blog,
   .page_seo {
     padding-top: 146px;
-    padding-bottom: 96px;
+    padding-bottom: 30px;
   }
 
   .page_inner {
-    padding-bottom: 96px;
+    padding-bottom: 30px;
   }
 
   .page__wrapper {
